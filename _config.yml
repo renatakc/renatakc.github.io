@@ -1,18 +1,18 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: A data odyssey
+description: A blog to qualquer coisa 
+author: Renata Cabral
 logo: /static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+github: https://github.com/renatakc
+about: Data Science aspirant
 
 baseurl: ""
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+url: "https://renatakc.github.io/"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
 
 share:
-  twitter_username: \#
+  twitter_username: \renatakc
   fb_appid: 000000000000
 
 
