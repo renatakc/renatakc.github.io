@@ -1,18 +1,14 @@
 [
   {
     "icon": "fa-facebook",
-    "link": ""
+    "link": "https://www.facebook.com/renatakc"
   },
   {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "http://www.twitter.com/renatakc"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
-  },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "link": "https://www.linkedin.com/in/renatakc"
   }
 ]
