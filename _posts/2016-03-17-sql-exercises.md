@@ -25,16 +25,16 @@ DDL - Data Definition Language: It is used to define data structures, as CREATE,
 All of this, I acquired in a very nice video lesson in Lynda.com
 
 This one is named SQL Essential Training.
-http://www.lynda.com/SQL-tutorials/SQL-Essential-Training/139988-2.html
+<http://www.lynda.com/SQL-tutorials/SQL-Essential-Training/139988-2.html>
 
 But, first of all, I recommend this one for those who are beginners in database matters:
-http://www.lynda.com/Access-tutorials/Foundations-Programming-Databases/412845-2.html
+<http://www.lynda.com/Access-tutorials/Foundations-Programming-Databases/412845-2.html>
 
 After a while, I also learnt a new command named DISTINCT.
 SELECT DISTINCT is for showing non-duplicated rows. It works as a GROUP BY function.
 
 However, to have real experience you need to practice, which you can do on this website here:
-http://www.sql-ex.ru/
+<http://www.sql-ex.ru/>
 
 It is a Russian website, but it's all written in English, don't worry.
 I completed few exercises, less than 10. There are 130 basic exercises to practice, divided into four difficulty levels - from 1 (the easiest) to 4 (the more difficult).

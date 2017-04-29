@@ -24,7 +24,7 @@ Regarding the Meet Up group, its name is Outreach Digital, see the link here: ht
 After the workshop, we had happy hour at a cool pub near the venue (I think it was Shakespeare's head, near Holborn station) and I met some very nice guys and clever, as well. It's real motivation for me, knowing good people and learning about them.
 
 I also started learning more about GA by Lynda.com (again!). I like this website because all courses are mainly short, so you can watch and learn in a quick way.
-See the course link here, if you are interested in it: http://www.lynda.com/Google-Analytics-tutorials/Google-Analytics-Essential-Training/197523-2.html
+See the course link here, if you are interested in it: <http://www.lynda.com/Google-Analytics-tutorials/Google-Analytics-Essential-Training/197523-2.html>
 
 In the morning, I studied R by www.datacamp.com. It is great because you watch the video, and next, you do a test, to check if you really understood the concepts. However, the sad part is the website is not free (fair enough, everyone has bills to pay) and you can watch just the first video of the whole playlist (or you can upgrade to the premium version and watch it all :) ).
 

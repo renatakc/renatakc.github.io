@@ -2,7 +2,7 @@
 layout: post
 title:  "R, dataframes and colors"
 date:   2016-03-26 19:32:39
-categories: 
+categories: R
 ---
 
 Hello, everyone!
@@ -63,7 +63,7 @@ barplot(x, col = brewer.pal(6, "Set3"))
 By the way, I mentioned the R-Ladies event I went last Wednesday, but I didn't say anything about it.
 As I said last time, it's a meet up for beginners and most of the ladies are novices. We also have some mentors to help in all levels questions, what is great.
 
-Here is link of material we used in the last lesson: http://rpubs.com/crt34/march-workshop-full
+Here is link of material we used in the last lesson: <http://rpubs.com/crt34/march-workshop-full>
 
 In the first half, Chiin explained primary uses of R-Studio, reading .csv files and plotting a graph using ggplot2 and Geo Chart (which allows you plot map graphs).
 

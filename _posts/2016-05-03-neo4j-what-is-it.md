@@ -23,6 +23,7 @@ As I didn't know how to do this using Neo4j, I tried to code in R and plot a net
 Tcharam! There is a network chart!
 It was made using a simple example which I found on a very informative website. You can get the R code below:
 
+```R
 setwd("C:/Users/Re/Documents/Neo4j")
 
 library(network) 
@@ -47,6 +48,7 @@ plot(net)
 
 net <- simplify(net, remove.multiple = F, remove.loops = T)
 plot(net, edge.arrow.size=.4,vertex.label=NA)
+```
 
 This code allows you to create that chart above, which is precious to visualise network connections into the data.
 
@@ -55,6 +57,6 @@ Lately, I'd been very busy but, I know that writing at least three or four times
 That's all! Thank you and see you tomorrow!
 
 Sources:
-http://neo4j.com/developer/graph-database/
-http://graphconnect.com/
-http://kateto.net/network-visualization
+<http://neo4j.com/developer/graph-database/>
+<http://graphconnect.com/>
+<http://kateto.net/network-visualization>

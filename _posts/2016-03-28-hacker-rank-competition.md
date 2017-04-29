@@ -2,8 +2,10 @@
 layout: post
 title:  "Hacker Rank competition"
 date:   2016-03-28 19:32:39
-categories: 
+categories: statistics
 ---
+
+###Hi guys!
 
 Despite it's Bank Holiday today in the UK, there're no bad times to studying. So, I woke up in this morning and started searching for new information and activities on the web.
 

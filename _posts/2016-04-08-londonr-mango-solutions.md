@@ -23,7 +23,7 @@ That's it for today :)
 See ya!
 
 Sources:
-www.mango-solutions.com
-earlconf.com
-www.rosettahub.com
-www.diegoluiz.com
+<www.mango-solutions.com>
+<earlconf.com>
+<www.rosettahub.com>
+<www.diegoluiz.com>

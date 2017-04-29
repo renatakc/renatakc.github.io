@@ -12,6 +12,7 @@ Today, in the last hours I've been tried to build some charts and had some insig
 The first data set I analyzed was Big Mac Index, from January 2016.
 See below the code I used:
 
+```R
 # set work directory
 setwd("C:/Users/Re/Documents/R")
 
@@ -28,7 +29,7 @@ d<-as.matrix(t(BigMacIndex))
 barplot(BigMacIndex$dollar_price, names.arg = BigMacIndex$Country, las = 2, 
         main = "Big Mac Index - Jan 16",
         ylab = "US$ dollar")
-
+```
  
 
 

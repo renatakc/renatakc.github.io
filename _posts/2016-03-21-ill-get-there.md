@@ -11,12 +11,14 @@ What did I learn today?
 
 How to do subqueries in SQL, like this one:
 
+```sql
 SELECT PO.maker, PR.price
 FROM Printer PR
 INNER JOIN Product PO
 ON PR.model = PO.model
 WHERE PR.color = 'y' AND PR.price IN
 (SELECT MIN(P.price) FROM Printer P WHERE P.color = 'y')
+```
 
 There's one particular test which I couldn't do. It is almost impossible. I asked for help for two software developers and, like me, they couldn't do this.
 
